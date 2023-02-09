@@ -1,0 +1,35 @@
+#database-backup-spinner{
+    display: none;
+}
+.database-backup-description {
+   /* margin-top: 10px; */
+    font-size: 14px;
+}
+
+.wrap-database-backup {
+    margin-top: 10px;
+    font-size: 14px;
+}
+#database-backup-logo {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+#database-backup-thead {
+    background-color: gray;
+    color: white;
+    height: 25px;
+      }
+#database-backup-td, #database-backup-thead {
+    border: 1px solid #777;
+    padding: 0.5rem;
+    text-align: center;
+}
+#database-backup-table {
+    border-collapse: collapse;
+}
+#database-backup-tbody #database-backup-tr:nth-child(odd) {
+    background: #eee;
+}
+#database-backup-caption {
+    font-size: 0.8rem;
+}
