@@ -1,4 +1,4 @@
-#WordPress Database Backup and check Tables Automated With Scheduler 2024 Plugin#
+# WordPress Database Backup and check Tables Automated With Scheduler 2024 Plugin #
 Contributors: sminozzi
 Tags: One-click WordPress database backup, One-click database backup, backup database, db backup, wordpress database backup
 Requires at least: 5.2
